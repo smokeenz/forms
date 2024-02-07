@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    border-bottom: 3px grey solid;
+    font-size: 24px;
+    padding:20px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.name {
+    display: flex;
+    padding:20px;
+}
+
+.company_name {
+    display: flex;
+    padding:20px;
+}
+
+.email {
+    display: flex;
+    padding:20px;
+}
+
+.shipping_address {
+    display: flex;
+    padding:20px;
+}
+
+input {
+    width: 150px;
+    height: 15px;
+}
+
+.ship_input1 {
+    margin-left: 20px;
+    width: 300px;
+}
+
+.ship_input2 {
+    margin-left: 140px;
+    width: 300px;
+}
+
+.name_input {
+    margin-left: 100px;
+}
+
+.company_input {
+    margin-left: 30px;
+}
+
+.email_input {
+    margin-left: 95px;
+}
+
+.ship_input3 {
+    margin-left: 140px;
+    width: 125px;
+}
+
+.ship_input4 {
+    margin-left: 50px;
+    width: 120px;
+}
+
+.ship_input5 {
+    margin-left: 140px;
+    width: 125px;
+}
+
+.ship_input6 {
+    margin-left: 50px;
+    width: 120px;
+}
+
+.bill_input1 {
+    margin-left: 35px;
+    width: 300px;
+}
+
+.bill_input2 {
+    margin-left: 140px;
+    width: 300px;
+}
+
+.bill_input3 {
+    margin-left: 140px;
+    width: 125px;
+}
+
+.bill_input4 {
+    margin-left: 50px;
+    width: 120px;
+}
+
+.bill_input5 {
+    margin-left: 140px;
+    width: 125px;
+}
+
+.bill_input6 {
+    margin-left: 50px;
+    width: 120px;
+}
+
+.billing_address {
+    display: flex;
+    padding:20px;
+}
+
+.phone {
+    display: flex;
+    padding:20px;
+}
+
+.phone_input {
+    margin-left: 35px;
+    width: 75px;
+}
+
+.phone_input2 {
+    margin-left: 50px;
+    width: 100px;
+}
+
+.hz {
+    margin-left: 50px;
+}
